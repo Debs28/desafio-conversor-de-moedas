@@ -1,4 +1,4 @@
-1. O desafio consiste na criação de um algoritmo conversor de moedas. Para realizar a conversão, seu código deve receber os identificadores da moeda de origem e de destino, bem como o montante em decimal a ser convertido. Com isso, utilize vetor de moedas abaixo como carga para as cotações, efetue a conversão e retorne o resultado.
+O desafio consiste na criação de um algoritmo conversor de moedas. Para realizar a conversão, seu código deve receber os identificadores da moeda de origem e de destino, bem como o montante em decimal a ser convertido. Com isso, utilize vetor de moedas abaixo como carga para as cotações, efetue a conversão e retorne o resultado.
 
 ```
 1 USD = 5.65 BRL
